@@ -4,6 +4,13 @@
   <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff710100000000000080070000e5030000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
   <WINDOW type="default" module="ARES"/>
+  <WINDOW type="VIEW3D" module="VIEW3D">
+   <camera>
+    <position x="-5225000" y="3877298" z="4013105"/>
+    <focus x="-5225000" y="7890403" z="0"/>
+    <up x="0" y="707106" z="707106"/>
+   </camera>
+  </WINDOW>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
